@@ -1,0 +1,21 @@
+body {
+    font-family: Comic Sans MS;
+    background-color: antiquewhite;
+  }
+  h1 {
+      font-size: 40px;
+  }
+  
+  table{
+      font-size: 20px;
+      border: 3px mediumaquamarine, solid;
+      
+      
+  }
+  .arnyek{
+    box-shadow: 5px 10px #888888;
+  }
+  td{
+    border: 3px mediumaquamarine, solid;
+  }
+  
